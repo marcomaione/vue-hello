@@ -4,8 +4,9 @@ const root = new Vue (
     {
         el: "#root",
         data: {
-            messaggio:'ciao mondo',
-            url:'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BlankMap-World.svg/310px-BlankMap-World.svg.png',
+            messaggio:'Ciao Mondo!',
+            //bonus
+            url:'https://static.educalingo.com/img/it/800/mondo.jpg',
         }
     }
 );
